@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+oandapy
+seaborn
+zmq
+requests
+v20
